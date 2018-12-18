@@ -1,0 +1,5 @@
+webpack-stats.json
+assets/dist/
+.idea/
+node_modules/
+package-lock.json

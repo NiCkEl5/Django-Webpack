@@ -1,0 +1,7 @@
+Django==2.1.4
+django-webpack-loader==0.6.0
+djangorestframework==3.9.0
+mysql-connector-python==8.0.13
+protobuf==3.6.1
+pytz==2018.7
+six==1.12.0
